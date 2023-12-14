@@ -1,1 +1,3 @@
-nota1=float(input("Ingrese nota1:"))git global user.name
+cm=float(input("Ingrese longitud::"))
+ints=cm*2.54
+print(f"{cm} cm = {ints} in")
