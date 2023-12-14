@@ -1,0 +1,1 @@
+nota1=float(input("Ingrese nota1:"))git global user.name
