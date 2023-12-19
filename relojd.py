@@ -5,3 +5,4 @@ r=math.fmod(h,12)
 ha=t+r 
 print(r)
 print(f"En {h} horas, el reloj marcara las {ha}")
+##fdsfsad
