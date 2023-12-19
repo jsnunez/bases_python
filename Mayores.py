@@ -1,9 +1,12 @@
 datos=[]
+cont=0
 x=int(input("Cuantos datos ingresara?"))
 for i in range(x):
     datos.append(float(input(f"Dato {i+1}: ")))
 
-print(datos)
 prom=sum(datos)/x
-print(prom)
-mayores=[name for name in datos if datos>prom]
+
+for i in datos:
+    if i>prom :
+        cont=cont+1
+print(f"{cont} Datos son mayores que el promediocont")
