@@ -1,0 +1,34 @@
+{
+    "usuarios": [
+        {
+            "id": "1098765389",
+            "nombres": "joan",
+            "Apellidos":  "nunez serrano",
+            "direccion": "calle 21#22-37",
+            "acudiente" : "dora serrano",
+            "telefonos_celular" : "3044469689",
+            "telefonos_fijo" :"6411954",
+            "estado": "inscrito"
+        },
+        {
+            "id": "9518479",
+            "nombres": "omar",
+            "Apellidos": "nunez isaza",
+            "direccion": "calle 21#22-37",
+            "acudiente" : "sebastian nu;ez",
+            "telefonos_celular" : "3167695833",
+            "telefonos_fijo" :"6441953",
+            "estado": "inscrito"
+        },
+        {
+            "id": "1098732932",
+            "nombres": "felipe",
+            "Apellidos": "nunez serrano",
+            "direccion": "cra4 #8-93",
+            "acudiente" : "dora serrano",
+            "telefonos_celular" : "3166944310",
+            "telefonos_fijo" :"6441964",
+            "estado": "inscrito"
+        }
+    ]
+}
